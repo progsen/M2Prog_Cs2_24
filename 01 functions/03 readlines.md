@@ -1,5 +1,8 @@
 ## vragen stellen
 
+- Ga verder in je Functions Solution uit de vorige opgave
+    - we gaan dan verder in Program.cs 
+
 - we gaan nu wat vragen stellen aan onze gebruiker en het antwoord laten zien
     - we beginnen eenvoudig, maak dit na in Program.cs:
     >![](img/vraag1.PNG)    
