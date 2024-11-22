@@ -19,7 +19,8 @@
         
 ## Lijstje maken
 
-- nu gaan we Program.cs een lijst met vragen geven, maak na:
+- nu gaan we Program.cs die we hebben een lijst met vragen toevoegen
+    - voeg het stuk met vragen toe bovenin je program.cs:
     >![](img/vragen.PNG)
 
 - we maken nu een nieuwe function die 1 vraag teruggeeft:
