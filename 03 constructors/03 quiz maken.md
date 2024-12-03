@@ -5,7 +5,7 @@ nu hebben we een quiz gemaakt
 - voeg een nieuwe function aan Quiz toe:
     - void
     - StelVraag
-    - 1 argument: int vraagIndex
+    - 1 argument: int index
 
 - in de body `{}`:
     - zet je code om de vraag op te halen:
