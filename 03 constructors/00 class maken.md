@@ -42,7 +42,7 @@ let even goed op het patroon `this.vraag = vraag`. omdat we 2 variabelen hebben:
             > ![](img/run.PNG)
 
 ## andere classes
-- Open quizvraag.cs maak de fields aan:
+- Open quiz.cs maak de fields aan:
     > ![](img/quiz.PNG)
 
 - Open quizvraagantwoord.cs maak de fields aan:
