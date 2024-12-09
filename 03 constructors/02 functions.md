@@ -22,6 +22,7 @@
         
 ## overload
 
+- ga naar Quiz.cs
 - maak nog een function:
     - void
     - VoegVraagToeOpIndex
