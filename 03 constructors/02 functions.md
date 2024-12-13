@@ -42,7 +42,7 @@
 ## toevoegen
 
 - zorg in run dat je alle vragen vult (0 tot 9)
-    - gebruik `BIJDE` VoegVraagToeOpIndex functions 
+    - gebruik `BEIDE` VoegVraagToeOpIndex functions 
 
 
 ## commit
