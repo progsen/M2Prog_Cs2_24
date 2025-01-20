@@ -39,7 +39,7 @@ Maak in je github een nieuwe repository aan:
         > ook zodat je deze op je laptop hebt
         
         ```
-        git clone https://github.com/progsen/M3Prog_backend.git
+        git clone https://github.com/progsen/M2Prog_Cs2_24.git
         ```
 - `LETOP` deze zijn alleen om te lezen niet om in te werken
 
