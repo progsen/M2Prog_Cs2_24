@@ -7,7 +7,7 @@
     - we beginnen eenvoudig, maak dit na in Program.cs:
     >![](img/vraag1.PNG)    
     - probeer zelf even de function te gebruiken in de Run function onder de writeline
-    > ![](img/runvraag1.PNG)
+ 
 
     <details> 
     <summary>Hint </summary>
