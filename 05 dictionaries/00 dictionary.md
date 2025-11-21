@@ -41,9 +41,10 @@ met een array moet je de hele array doorzoeken. een dictionary is beter voor dit
 - een dictionary kan ook in een loop gebruikt worden:
     > ![](img/keyval.PNG)
     - maak dat na
-        - zet item.Value op het scherm
+        - haal nu de string op door item.Value te coderen
+            - zet die op het scherm
 
-        - zet nu ook item.Key op het scherm 
+        - haal nu ook de int op door item.Key te coderen
 
 - zorg nu dat je beide in 1 regel op het scherm zet zodat je dit krijgt:
     > ![](img/keyvalout.PNG)

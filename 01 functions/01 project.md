@@ -18,15 +18,12 @@ In deze opdrachten reeks maak je nieuwe solutions
 
 ## project maken
 
-- open visual studio community
+- open visual studio code
+    - open je M2Prog_cs2 directory uit opgave 00_git
 
-- maak een nieuwe Console project
->![](img/console.PNG)
-- noem het project `Functions`
+- maak een map 01_functions
+    - maak daar met `dotnet new console --use-program-main` een nieuw console project aan
 
-- controlleer je settings:
-    >![](img/check.PNG)
-    - zet het in je `M2Prog_Cs2` directory
 
 
 ## commit
