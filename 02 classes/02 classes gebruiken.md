@@ -33,14 +33,21 @@
 
 ## Controlleren
 
+- lees:
+```
+we moeten nu gaan debuggen. Dit kan pas als we de c# dev kit extentie hebben geinstalleerd
+```
+- zorg dat je deze van Microsoft installeerd:
+    >![](img/debugext.PNG)
+
 - zet nu een breakpoint in je code
-> ![](img/breakpoint.PNG)
-- run het programma
+    > ![](img/breakpointcode.PNG)
+- run het programma (Run in de balk)
     - nu pauzeert het programma
 - kijk of je de dag kan openklappen, en klap alles open
-    > ![](img/openklap.PNG)
+    > ![](img/openklapcode.PNG)
     - klap de hele boom open
-    > ![](img/openklap2.PNG)
+        > ![](img/openklap2.PNG)
     
 ## commit
 
