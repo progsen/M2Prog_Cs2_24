@@ -29,10 +29,20 @@
         
 ## quiz.txt & copy
 
-- rechter muis op quiz.txt
-    - properties
-        - zet Copy to output ... naar Copy if newer:
-            > ![](img/copy.PNG)
+- in vscode:
+- open je csproj file en zet het volgende erbij, ONDER <project>
+```
+<ItemGroup >
+    <None Update="quiz.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    </ItemGroup>
+```
+- LETOP dit is voor Visual studio (2022+)
+    - rechter muis op quiz.txt
+        - properties
+            - zet Copy to output ... naar Copy if newer:
+                > ![](img/copy.PNG)
 
 - build & run nogmaals
     - nu zie je quiz wel

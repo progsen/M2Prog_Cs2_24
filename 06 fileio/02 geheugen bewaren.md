@@ -36,7 +36,6 @@
     - zet die waarde op welkomstTekst
         - test en kijk of dit gebeurt (je teksts komt 2x op het scherm)
             > ![](img/welkomshow.PNG)  
-
 # 2 Lezen en schrijven
 
 ## Bewaren van laatste staat
@@ -67,6 +66,7 @@ we gaan nu de welkomstTekst in een file bewaren
     - Nu gaan we schrijven naar de saveFile:
         > ![](img/write.PNG)  
 
+    - zorg nu dat de welkomstTekst alleen wordt geschreven als de Length van welkomstTekst > 0 is
 ## TEST
 
 - test nu:
