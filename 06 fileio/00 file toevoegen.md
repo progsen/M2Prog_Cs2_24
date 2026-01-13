@@ -10,8 +10,6 @@
 ## File klaar zetten
 
 - gebruik nu:
-    - rechter muis op het project -> add
-        > ![](img/nieuwtekst.PNG)
     - voeg een txt file toe
         - noem deze even quiz.txt
 
@@ -31,18 +29,14 @@
 
 - in vscode:
 - open je csproj file en zet het volgende erbij, ONDER <project>
-```
-<ItemGroup >
-    <None Update="quiz.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    </ItemGroup>
-```
-- LETOP dit is voor Visual studio (2022+)
-    - rechter muis op quiz.txt
-        - properties
-            - zet Copy to output ... naar Copy if newer:
-                > ![](img/copy.PNG)
+    ```
+    <ItemGroup >
+        <None Update="quiz.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
+        </ItemGroup>
+    ```
+
 
 - build & run nogmaals
     - nu zie je quiz wel
