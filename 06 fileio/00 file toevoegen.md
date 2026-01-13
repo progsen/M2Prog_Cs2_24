@@ -17,11 +17,8 @@
 
 - kopieeer even de tekst van gamequestions.txt naar de quiz.txt
     - build & run het project
-    - click op de `show all files` knop
-        > ![](img/showfiles.PNG)
-    - check of je nieuwe files ziet:
-        > ![](img/hidden.PNG)
-- open de bin
+
+- kijk in de bin/Debug/netX.0 map
     > ![](img/bin.PNG)
     - zie je daar de quiz.txt staan?
         
@@ -32,10 +29,12 @@
     ```
     <ItemGroup >
         <None Update="quiz.txt">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </None>
-        </ItemGroup>
+    </ItemGroup>
     ```
+    - dus op deze plek:
+        > ![](img/addtocsproj.PNG)
 
 
 - build & run nogmaals
